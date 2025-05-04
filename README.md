@@ -6,6 +6,8 @@ React Frontend
 
 
 ![Ekran görüntüsü 2025-05-04 140828](https://github.com/user-attachments/assets/100d2bda-be6f-44bc-9d26-1834bf6c8843)
+<br>
+React
 
 ![Ekran görüntüsü 2025-05-04 140851](https://github.com/user-attachments/assets/3243a09e-7ffb-40c9-bd92-6fd774e895ce)
 
