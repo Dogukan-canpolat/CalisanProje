@@ -2,10 +2,18 @@
 <h1>Spring and React Project</h1>
 
 
-React Frontend
+Spring Boot ile Geliştirilmiş Çalışan Yönetim Sistemi
+Bu projede, Spring Boot kullanılarak kurumsal yapıdaki şirketlerin çalışan bilgilerini kolayca yönetebileceği bir sistem geliştirildi.
+Katmanlı mimari ile hazırlanan uygulama; Controller, Service ve Repository katmanlarıyla temiz ve sürdürülebilir kod yapısı sunar.
 
+🔹 Spring Boot
+🔹 Spring Data JPA ile MySQL entegrasyonu
+🔹 CRUD işlemleri
+🔹 DTO yapısı ve Validation desteği
+🔹 Katmanlı mimari kullanımı
+🔹 Restful API yapısı
 
-![Ekran görüntüsü 2025-05-04 140828](https://github.com/user-attachments/assets/100d2bda-be6f-44bc-9d26-1834bf6c8843)
+<img height="100px" width="100px">![Ekran görüntüsü 2025-05-04 140828](https://github.com/user-attachments/assets/100d2bda-be6f-44bc-9d26-1834bf6c8843)</img>
 
 ![Ekran görüntüsü 2025-05-04 140851](https://github.com/user-attachments/assets/3243a09e-7ffb-40c9-bd92-6fd774e895ce)
 
