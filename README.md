@@ -9,7 +9,6 @@ Katmanlı mimari ile hazırlanan uygulama; Controller, Service ve Repository kat
 🔹 Spring Boot
 🔹 Spring Data JPA ile MySQL entegrasyonu
 🔹 CRUD işlemleri
-🔹 DTO yapısı ve Validation desteği
 🔹 Katmanlı mimari kullanımı
 🔹 Restful API yapısı
 
@@ -26,3 +25,9 @@ Katmanlı mimari ile hazırlanan uygulama; Controller, Service ve Repository kat
 ![Ekran görüntüsü 2025-05-04 141016](https://github.com/user-attachments/assets/59ee12c8-5b1a-401f-a6da-105f1b9c5f28)
 
 ![Ekran görüntüsü 2025-05-04 141039](https://github.com/user-attachments/assets/1c10c97e-a4f1-418e-9eef-e6654ebfa053)
+
+![Ekran görüntüsü 2025-05-04 201722](https://github.com/user-attachments/assets/57868212-5157-4a1c-99c0-136fb31a8e77)
+
+<br>
+<h1 align= "center">MySql</h1>
+![Ekran görüntüsü 2025-05-04 201813](https://github.com/user-attachments/assets/b036a837-26ae-45e9-a51c-311f294fb6a7)
