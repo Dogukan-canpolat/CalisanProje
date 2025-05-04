@@ -30,4 +30,5 @@ Katmanlı mimari ile hazırlanan uygulama; Controller, Service ve Repository kat
 
 <br>
 <h1 align= "center">MySql</h1>
+
 ![Ekran görüntüsü 2025-05-04 201813](https://github.com/user-attachments/assets/b036a837-26ae-45e9-a51c-311f294fb6a7)
