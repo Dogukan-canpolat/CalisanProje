@@ -1,5 +1,5 @@
 # CalisanProje
-<h1>Spring and React Project</h1>
+<h1 align= "center">Spring and React Project</h1>
 
 
 Spring Boot ile Geliştirilmiş Çalışan Yönetim Sistemi
@@ -12,7 +12,7 @@ Katmanlı mimari ile hazırlanan uygulama; Controller, Service ve Repository kat
 🔹 Katmanlı mimari kullanımı
 🔹 Restful API yapısı
 
-<h3>Projenin bir kısmının ekran görüntüleri aşağıdaki gibidir =</h3>
+<h3 align= "center">Projenin bir kısmının ekran görüntüleri aşağıdaki gibidir =</h3>
 
 ![Ekran görüntüsü 2025-05-04 140828](https://github.com/user-attachments/assets/100d2bda-be6f-44bc-9d26-1834bf6c8843)
 
