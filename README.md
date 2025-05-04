@@ -13,6 +13,8 @@ Katmanlı mimari ile hazırlanan uygulama; Controller, Service ve Repository kat
 🔹 Katmanlı mimari kullanımı
 🔹 Restful API yapısı
 
+<h3>Projenin bir kısmının ekran görüntüleri aşşağıdaki gibidir.</h3>
+
 ![Ekran görüntüsü 2025-05-04 140828](https://github.com/user-attachments/assets/100d2bda-be6f-44bc-9d26-1834bf6c8843)
 
 ![Ekran görüntüsü 2025-05-04 140851](https://github.com/user-attachments/assets/3243a09e-7ffb-40c9-bd92-6fd774e895ce)
