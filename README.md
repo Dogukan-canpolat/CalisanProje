@@ -22,6 +22,7 @@ Katmanlı mimari ile hazırlanan uygulama; Controller, Service ve Repository kat
 <br>
 <h1 align= "center">Spring</h1>
 CRUD işlemleri postman kullanılarak yapılabilir
+<br>
 
 ![Ekran görüntüsü 2025-05-04 141016](https://github.com/user-attachments/assets/59ee12c8-5b1a-401f-a6da-105f1b9c5f28)
 
